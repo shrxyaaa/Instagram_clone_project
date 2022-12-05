@@ -11,7 +11,7 @@ A clone of the popular social-media application, Instagram, implemented using ME
   > npm run dev
 ```
 
-  and add the required ```Tokens``` in ```dev.js``` file in the config directory
+  and add the required ```Tokens``` in ```dev.js``` file in the config folder under the root directory
 
 
  ```bash
